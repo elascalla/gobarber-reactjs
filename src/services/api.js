@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://appteste.com.br',
+  baseURL: 'https://appteste.com.br',
 });
 
 export default api;
